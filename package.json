@@ -1,0 +1,12 @@
+{
+  "name": "desafio_web_g5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch ./assets/scss:./assets/css --style compressed --no-source-map"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
